@@ -1,8 +1,8 @@
-# Hangman_A_Word-Guessing-Game
+# Hangman A Word Guessing Game
 
-○ A list of words will be hardcoded in your program, out of
+# A list of words will be hardcoded in your program, out of
 which the interpreter will ;
-○ choose 1 random word.
+# choose 1 random word.
 ○ The user first must input their names
 ○ Ask the user to guess any alphabet. If the random word
 contains that alphabet, it
